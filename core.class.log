@@ -1,0 +1,1233 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F04093184461FE9BD58',
+    participant: undefined
+  },
+  messageTimestamp: 1743529963,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F41AC16D11F1CE360B4',
+    participant: undefined
+  },
+  messageTimestamp: 1743530132,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que tratamientos ofrecen?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que tratamientos ofrecen?',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F7EAE42A45B088C5EDD',
+    participant: undefined
+  },
+  messageTimestamp: 1743530181,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Me interesa drenaje linfatico',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me interesa drenaje linfatico',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FEA8570E59CB64D5FD8',
+    participant: undefined
+  },
+  messageTimestamp: 1743531009,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Dale, quiero coordinar una cita',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dale, quiero coordinar una cita',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F8CA87573E0A01F6B04',
+    participant: undefined
+  },
+  messageTimestamp: 1743531317,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FE7CA87A80183ED0D95',
+    participant: undefined
+  },
+  messageTimestamp: 1743531332,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Me interesa la depilacion laser',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me interesa la depilacion laser',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F345D8631AA7734149E',
+    participant: undefined
+  },
+  messageTimestamp: 1743531440,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si, por favor',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si, por favor',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC6AB77E194BA68FAB1',
+    participant: undefined
+  },
+  messageTimestamp: 1743531511,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F184895629598E0D77A',
+    participant: undefined
+  },
+  messageTimestamp: 1743531520,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC407D5B25B91111C5E',
+    participant: undefined
+  },
+  messageTimestamp: 1743531549,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero averiguar por la depilacion laser',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero averiguar por la depilacion laser',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F8F6494232A76AF6241',
+    participant: undefined
+  },
+  messageTimestamp: 1743531585,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Por favor',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Por favor',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F7E2DB4F9B38515B4CB',
+    participant: undefined
+  },
+  messageTimestamp: 1743531699,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero reservar turno',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero reservar turno',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F75AACE4C299AEB59AE',
+    participant: undefined
+  },
+  messageTimestamp: 1743531716,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Depilacion laser',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Depilacion laser',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FDF7F89E1197AF6DAA0',
+    participant: undefined
+  },
+  messageTimestamp: 1743531794,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero averiguar por depilacion definitiva',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero averiguar por depilacion definitiva',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F76E258EBB6309C30F6',
+    participant: undefined
+  },
+  messageTimestamp: 1743531807,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Si', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FFE5260C9DE3A63CDFD',
+    participant: undefined
+  },
+  messageTimestamp: 1743532106,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FAA37F6AE761119E6CD',
+    participant: undefined
+  },
+  messageTimestamp: 1743532127,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero averiguar por depilacion laser',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero averiguar por depilacion laser',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FD9AF67937886B792EF',
+    participant: undefined
+  },
+  messageTimestamp: 1743532183,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'No, quiero sacar un turno',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No, quiero sacar un turno',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC147ABD0EB6E5912EA',
+    participant: undefined
+  },
+  messageTimestamp: 1743532196,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Si', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC8ADD2056C35922265',
+    participant: undefined
+  },
+  messageTimestamp: 1743532304,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Si', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491143994339@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB078997EA44C6F9F16C0',
+    participant: undefined
+  },
+  messageTimestamp: 1743532998,
+  pushName: 'Chris Wetzel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola!',
+  from: '5491143994339'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491143994339@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB006E3655DDD674AE48F',
+    participant: undefined
+  },
+  messageTimestamp: 1743533062,
+  pushName: 'Chris Wetzel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5491143994339'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491143994339@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04794980ED392F1FC70',
+    participant: undefined
+  },
+  messageTimestamp: 1743533078,
+  pushName: 'Chris Wetzel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quiero averiguar por la mesoterapia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Quiero averiguar por la mesoterapia',
+  from: '5491143994339'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491143994339@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB02B9181572AF2AB0B95',
+    participant: undefined
+  },
+  messageTimestamp: 1743533147,
+  pushName: 'Chris Wetzel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mesoterapia corporal',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Mesoterapia corporal',
+  from: '5491143994339'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC617C8A80B9EF580DD',
+    participant: undefined
+  },
+  messageTimestamp: 1743606381,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F73A99E1235C06A6CFB',
+    participant: undefined
+  },
+  messageTimestamp: 1743606407,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero averiguar por depilacion definitiva',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero averiguar por depilacion definitiva',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB49FF0FC247C3DD5B8',
+    participant: undefined
+  },
+  messageTimestamp: 1743606516,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero sacar un turno',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero sacar un turno',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F3FB71F041532672AC4',
+    participant: undefined
+  },
+  messageTimestamp: 1743606532,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Depilacion',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Depilacion',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F326DB42EB8B752C627',
+    participant: undefined
+  },
+  messageTimestamp: 1743606549,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero sacar un turno para depilacion',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero sacar un turno para depilacion',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3F41D5D3EC25ACA89239',
+    participant: undefined
+  },
+  messageTimestamp: 1743606560,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Si', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165419400@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC283F66FCDADB2DFBD',
+    participant: undefined
+  },
+  messageTimestamp: 1743606588,
+  pushName: 'Francisco Di Nucci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Francisco y mi email es franciscoldinucci@gmail.com',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Francisco y mi email es franciscoldinucci@gmail.com',
+  from: '5491165419400'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14b7b5fc-54c1-4855-933c-bf3b57fe7acd',
+  keyword: 'key_c0608b72-f825-41c1-98fe-f962c207a864',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'be33619306ac79d6469c90f281c4232d'
+}
