@@ -9,30 +9,55 @@ const BaileysProvider = require("@bot-whatsapp/provider/baileys");
 const MockAdapter = require("@bot-whatsapp/database/mock");
 const axios = require("axios");
 
+const messageBuffer = {};
+
 const flowChatGPT = addKeyword(EVENTS.WELCOME).addAction(
   async (ctx, { flowDynamic }) => {
-    try {
-      console.log(`🔹 Mensaje recibido de ${ctx.from}: ${ctx.body}`);
-
-      // 🔹 Enviar el mensaje del usuario a la API de OpenAI
-      const response = await axios.post("http://localhost:3002/chat", {
-        number: ctx.from,
-        messages: [{ role: "user", content: ctx.body }],
-      });
-
-      // 🔹 Obtener la respuesta de la API
-      const reply = response.data.response || "Lo siento, no pude responder.";
-
-      console.log(`🔹 Respuesta generada: ${reply}`);
-
-      // 🔹 Enviar la respuesta al usuario en WhatsApp
-      await flowDynamic(reply);
-    } catch (error) {
-      console.error("❌ Error al procesar el mensaje:", error);
-      await flowDynamic(
-        "Hubo un error al generar la respuesta. Intenta de nuevo."
-      );
+    const user = ctx.from;
+    if (!messageBuffer[user]) {
+      messageBuffer[user] = {
+        messages: [],
+        timeout: null,
+      };
     }
+
+    // Guardar mensaje
+    messageBuffer[user].messages.push(ctx.body);
+
+    // Reiniciar el temporizador
+    clearTimeout(messageBuffer[user].timeout);
+    messageBuffer[user].timeout = setTimeout(async () => {
+      const fullMessage = messageBuffer[user].messages.join(" ");
+      delete messageBuffer[user]; // Limpiar buffer
+
+      try {
+        const response = await axios.post("http://localhost:3001/chat", {
+          number: user,
+          messages: [{ role: "user", content: fullMessage }],
+        });
+
+        const { message: rawMessage } = response.data;
+        let parsed = { message: rawMessage, media: undefined };
+
+        try {
+          parsed = JSON.parse(rawMessage);
+        } catch (e) {
+          console.warn("No se pudo parsear el mensaje como JSON.");
+        }
+
+        const { message, media } = parsed;
+        if (media) {
+          await flowDynamic([
+            { body: message || "Mensaje sin contenido.", media },
+          ]);
+        } else {
+          await flowDynamic(message || "Lo siento, no pude responder.");
+        }
+      } catch (err) {
+        console.error("❌ Error:", err);
+        await flowDynamic("Hubo un error al generar la respuesta.");
+      }
+    }, 10000); // Esperar 5 segundos antes de procesar
   }
 );
 
