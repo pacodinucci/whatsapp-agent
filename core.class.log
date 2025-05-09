@@ -2,53 +2,15 @@
   key: {
     remoteJid: '5491165419400@s.whatsapp.net',
     fromMe: false,
-    id: '3F037112F2119C7488B4',
+    id: '3F959B4694DDFCA1E3D3',
     participant: undefined
   },
-  messageTimestamp: 1746655846,
-  pushName: 'Francisco Di Nucci',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '5491165419400'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_360f6dfb-209a-49ff-b46f-11049fa9a710',
-  keyword: 'key_a45e0926-037a-4e3b-8b71-b2d56e23dfb2',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '9e3e7f2d6820dbe69d73c07ac8bdb171'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5491165419400@s.whatsapp.net',
-    fromMe: false,
-    id: '3FCFE3C3115F16769009',
-    participant: undefined
-  },
-  messageTimestamp: 1746655849,
+  messageTimestamp: 1746822497,
   pushName: 'Francisco Di Nucci',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'Quiero un turno para depilarme',
+      text: 'Hola, quiero un nuevo turno',
       contextInfo: [ContextInfo]
     },
     messageContextInfo: MessageContextInfo {
@@ -56,12 +18,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Quiero un turno para depilarme',
+  body: 'Hola, quiero un nuevo turno',
   from: '5491165419400'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_360f6dfb-209a-49ff-b46f-11049fa9a710',
-  keyword: 'key_a45e0926-037a-4e3b-8b71-b2d56e23dfb2',
+  ref: 'ans_1ee482f0-f6a6-43d3-9a50-241f9312478b',
+  keyword: 'key_49d8313d-7ea9-41fa-8718-648b9c57baf3',
   answer: '__call_action__',
   options: {
     media: null,
@@ -75,59 +37,21 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9e3e7f2d6820dbe69d73c07ac8bdb171'
+  refSerialize: '0828a056225c7beb63ceb5d3701b315b'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5491165419400@s.whatsapp.net',
     fromMe: false,
-    id: '3F3ED0CFE5B2252A21E5',
+    id: '3F5BA4A6E1265854C4E9',
     participant: undefined
   },
-  messageTimestamp: 1746655877,
-  pushName: 'Francisco Di Nucci',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola',
-  from: '5491165419400'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_360f6dfb-209a-49ff-b46f-11049fa9a710',
-  keyword: 'key_a45e0926-037a-4e3b-8b71-b2d56e23dfb2',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '9e3e7f2d6820dbe69d73c07ac8bdb171'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5491165419400@s.whatsapp.net',
-    fromMe: false,
-    id: '3FA82809DD1001E69EBB',
-    participant: undefined
-  },
-  messageTimestamp: 1746655880,
+  messageTimestamp: 1746822526,
   pushName: 'Francisco Di Nucci',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'QUiero un turno para depilarme',
+      text: 'Hola quiero un nuevo turno',
       contextInfo: [ContextInfo]
     },
     messageContextInfo: MessageContextInfo {
@@ -135,12 +59,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: 'QUiero un turno para depilarme',
+  body: 'Hola quiero un nuevo turno',
   from: '5491165419400'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_360f6dfb-209a-49ff-b46f-11049fa9a710',
-  keyword: 'key_a45e0926-037a-4e3b-8b71-b2d56e23dfb2',
+  ref: 'ans_1ee482f0-f6a6-43d3-9a50-241f9312478b',
+  keyword: 'key_49d8313d-7ea9-41fa-8718-648b9c57baf3',
   answer: '__call_action__',
   options: {
     media: null,
@@ -154,21 +78,21 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9e3e7f2d6820dbe69d73c07ac8bdb171'
+  refSerialize: '0828a056225c7beb63ceb5d3701b315b'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5491165419400@s.whatsapp.net',
     fromMe: false,
-    id: '3F00DD54953A3E789392',
+    id: '3F9645A09D9A75A44157',
     participant: undefined
   },
-  messageTimestamp: 1746655950,
+  messageTimestamp: 1746822547,
   pushName: 'Francisco Di Nucci',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'Que dias tenes?',
+      text: 'Para depilarme',
       contextInfo: [ContextInfo]
     },
     messageContextInfo: MessageContextInfo {
@@ -176,12 +100,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Que dias tenes?',
+  body: 'Para depilarme',
   from: '5491165419400'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_360f6dfb-209a-49ff-b46f-11049fa9a710',
-  keyword: 'key_a45e0926-037a-4e3b-8b71-b2d56e23dfb2',
+  ref: 'ans_1ee482f0-f6a6-43d3-9a50-241f9312478b',
+  keyword: 'key_49d8313d-7ea9-41fa-8718-648b9c57baf3',
   answer: '__call_action__',
   options: {
     media: null,
@@ -195,31 +119,34 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9e3e7f2d6820dbe69d73c07ac8bdb171'
+  refSerialize: '0828a056225c7beb63ceb5d3701b315b'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5491165419400@s.whatsapp.net',
     fromMe: false,
-    id: '3FCF326E3413E59561B4',
+    id: '3F06894A88A6AE216F1F',
     participant: undefined
   },
-  messageTimestamp: 1746655951,
+  messageTimestamp: 1746822622,
   pushName: 'Francisco Di Nucci',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'libres', contextInfo: [ContextInfo] },
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Me mostras las opciones?',
+      contextInfo: [ContextInfo]
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'libres',
+  body: 'Me mostras las opciones?',
   from: '5491165419400'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_360f6dfb-209a-49ff-b46f-11049fa9a710',
-  keyword: 'key_a45e0926-037a-4e3b-8b71-b2d56e23dfb2',
+  ref: 'ans_1ee482f0-f6a6-43d3-9a50-241f9312478b',
+  keyword: 'key_49d8313d-7ea9-41fa-8718-648b9c57baf3',
   answer: '__call_action__',
   options: {
     media: null,
@@ -233,5 +160,5 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '9e3e7f2d6820dbe69d73c07ac8bdb171'
+  refSerialize: '0828a056225c7beb63ceb5d3701b315b'
 }

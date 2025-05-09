@@ -36,22 +36,38 @@ const flowChatGPT = addKeyword(EVENTS.WELCOME).addAction(
           messages: [{ role: "user", content: fullMessage }],
         });
 
-        const { message: rawMessage } = response.data;
-        let parsed = { message: rawMessage, media: undefined };
+        let rawMessage = response.data.message;
 
-        try {
-          parsed = JSON.parse(rawMessage);
-        } catch (e) {
-          console.warn("No se pudo parsear el mensaje como JSON.");
+        console.log("RAW MESSAGE --> ", response.data);
+
+        // 🧠 Si el modelo devuelve directamente un objeto, no lo parsees
+        if (typeof rawMessage !== "string") {
+          rawMessage = JSON.stringify(rawMessage);
         }
 
-        const { message, media } = parsed;
-        if (media) {
+        let parsed;
+
+        if (typeof response.data.message === "object") {
+          // Ya vino parseado (desde el backend)
+          parsed = response.data.message;
+        } else {
+          // Intentamos parsear por si vino como string plano
+          try {
+            parsed = JSON.parse(response.data.message);
+          } catch (e) {
+            parsed = { message: response.data.message, media: undefined };
+          }
+        }
+
+        if (parsed.media) {
           await flowDynamic([
-            { body: message || "Mensaje sin contenido.", media },
+            {
+              body: parsed.message || "Mensaje sin contenido.",
+              media: parsed.media,
+            },
           ]);
         } else {
-          await flowDynamic(message || "Lo siento, no pude responder.");
+          await flowDynamic(parsed.message || "Lo siento, no pude responder.");
         }
       } catch (err) {
         console.error("❌ Error:", err);
